@@ -1,3 +1,6 @@
+#include<stdio.h>
+
 int main() {
-     return 2;
+    printf("aiueo");
+    return 2;
 }
